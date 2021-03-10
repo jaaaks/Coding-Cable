@@ -1,0 +1,49 @@
+.body{
+    background-image: url("../assets/pexels-pixabay-415043.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+}
+.main-content{
+    position: absolute;
+    top: 20vh;
+    background-color: rgba(0,0,0,0.7);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white; 
+    margin-left: 30vw;
+    margin-right: 30vw;
+    height: 60vh;
+    margin-bottom: 20vh;
+}
+.body{
+    text-align: center;
+}
+.tit{
+    font-size: 36px;
+    padding-top: 50px;
+    font-weight: 600;
+}
+.log{
+    margin-top: 50px;
+}
+.logo{
+    height: 70px;
+    width: 70px;
+}
+.bod{
+    font-size: 20px;
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.foot{
+    padding-top: 50px;
+}
+.foot-insta{
+    padding-top: 20px;
+    height: 30px;
+    width: 30px;
+}
