@@ -47,3 +47,18 @@
     height: 30px;
     width: 30px;
 }
+@media screen and (max-width: 767px){
+    .main-content{
+        margin-left: 10vw;
+        margin-right: 10vw;
+    }
+    .tit{
+        font-size: 28px;
+    }
+    .bod{
+        font-size: 16px;;
+    }
+    .foot-insta{
+        font-size: 14px;;
+    }
+}
